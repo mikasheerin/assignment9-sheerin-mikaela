@@ -40,6 +40,6 @@ header nav a:hover {
 	background-image: url("../images/beach.jpg");
 	background-attachment: fixed;
 	background-size: cover;
-	padding: 600px 0;
+	padding: 100px 0 400px 0;
   text-align: center;
 }
