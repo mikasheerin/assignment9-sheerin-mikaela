@@ -85,6 +85,10 @@ header nav a:hover {
   padding: 20px;
 }
 
+p::first-line {
+  color: #008080;
+}
+
 footer {
 	background: #008080;
 	padding: 20px;
