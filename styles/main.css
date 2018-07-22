@@ -84,3 +84,13 @@ header nav a:hover {
 	text-align: center;
   padding: 20px;
 }
+
+footer {
+	background: #008080;
+	padding: 20px;
+}
+
+footer img {
+	width: 50px;
+  padding-right: 20px;
+}
